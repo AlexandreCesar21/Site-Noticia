@@ -69,10 +69,6 @@
 <p>• Fontes estilizadas com font-family: 'Trebuchet MS', Arial, sans-serif.
 </p>
 
-<p>• <b></b></p>
-<p>• </p>
-<p>• </p>
-
 <p>• <b>Barra de Navegação:</b></p>
 <p>• Cores interativas para estado de hover e seleção atual.</p>
 <p>• Design responsivo e interativo.
